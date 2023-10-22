@@ -1,5 +1,9 @@
 vallagenaaaaaaaaaaa.bla bla blah.
 to kya main nachu?
 naa bhai ghuma
+<<<<<<< HEAD
 I want to be a software engineer.
 I will be alright.
+=======
+I want to be a software engineer. One day!
+>>>>>>> 9c681e1c50f912f7205413699cb48e6e4016b916
